@@ -3,6 +3,7 @@
 > vue版本裁切工具，包含预览功能
 
 在线地址： [https://qiuyaofan.github.io/vue-crop-demo/](https://qiuyaofan.github.io/vue-crop-demo/) 
+插件讲解请看： [https://github.com/qiuyaofan/vue-crop/issues/1](https://github.com/qiuyaofan/vue-crop/issues/1)
 
 ## Build Setup
 
