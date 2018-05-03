@@ -2,6 +2,8 @@
 
 > vue版本裁切工具，包含预览功能
 
+在线地址： [https://qiuyaofan.github.io/vue-crop-demo/](https://qiuyaofan.github.io/vue-crop-demo/) 
+
 ## Build Setup
 
 ``` bash
@@ -57,4 +59,4 @@ previewJson: [{
 | width | null | 预览框宽高 |number|
 | radius | null | 是否是圆形，默认没有 |boolen|
 
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+
